@@ -1,0 +1,6 @@
+{
+    "mainPageLink" : "https://ccx.s9s-test.net/projects/default/data-stores",
+    "loginPageLink" : "https://ccx.s9s-test.net/auth/?redirectTo=https%3A%2F%2Fccx.s9s-test.net%2F",
+    "loginPageLinkAfterLogOut" : "https://ccx.s9s-test.net/auth/?from=ccx",
+    "forgotPasswordPageLink" : "https://ccx.s9s-test.net/auth/forgot-password?from=ccx"
+}
